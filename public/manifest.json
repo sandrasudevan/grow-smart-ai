@@ -1,0 +1,41 @@
+{
+  "name": "GrowSmart AI - Farmer Assistant",
+  "short_name": "GrowSmart AI",
+  "description": "AI-powered agricultural assistant for farmers worldwide",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#10b981",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/growsmart-logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/growsmart-logo.svg",
+      "type": "image/svg+xml", 
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["agriculture", "productivity", "education"],
+  "screenshots": [
+    {
+      "src": "/growsmart-logo.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    }
+  ],
+  "features": [
+    "Plant Identification",
+    "Weather Data",
+    "Market Prices",
+    "AI Chat Assistant",
+    "Voice Commands",
+    "Offline Support"
+  ]
+}

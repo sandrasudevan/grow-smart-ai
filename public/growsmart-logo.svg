@@ -1,0 +1,10 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="80" fill="#10b981"/>
+  <path d="M256 100C256 100 320 120 320 200C320 280 256 300 256 300C256 300 192 280 192 200C192 120 256 100 256 100Z" fill="#34d399"/>
+  <path d="M256 150C256 150 290 160 290 200C290 240 256 250 256 250C256 250 222 240 222 200C222 160 256 150 256 150Z" fill="#6ee7b7"/>
+  <circle cx="256" cy="200" r="20" fill="#059669"/>
+  <path d="M256 300L256 350L240 370L256 380L272 370L256 350Z" fill="#047857" stroke="#065f46" stroke-width="2"/>
+  <path d="M200 320C200 320 180 340 200 360C220 380 240 360 240 360" fill="#047857"/>
+  <path d="M312 320C312 320 332 340 312 360C292 380 272 360 272 360" fill="#047857"/>
+  <text x="256" y="450" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="36" font-weight="bold">GrowSmart</text>
+</svg>
