@@ -104,5 +104,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 GrowSmart AI was built with the mission to democratize agricultural knowledge and empower farmers with cutting-edge technology. Our team is dedicated to creating sustainable farming solutions for a better tomorrow.
 
 ---
-
+**this project demos collabrorative github workflow.
 **Built with ❤️ for farmers worldwide**
