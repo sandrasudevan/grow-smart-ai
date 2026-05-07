@@ -106,3 +106,4 @@ GrowSmart AI was built with the mission to democratize agricultural knowledge an
 ---
 
 **Built with ❤️ for farmers worldwide**
+this project for github demonstration
